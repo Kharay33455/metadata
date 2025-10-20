@@ -1,0 +1,16 @@
+{
+  "name": "USD Coin",
+  "symbol": "USDC",
+  "description": "Mock USD Coin on Devnet",
+  "image": "",
+  "decimals": 6,
+  "external_url": "https://example.com",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://cryptologos.cc/logos/usd-coin-usdc-logo.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
