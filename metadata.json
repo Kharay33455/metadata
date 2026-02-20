@@ -4,7 +4,6 @@
   "description": "Mock USD Coin on Devnet",
   "image": "https://raw.githubusercontent.com/Kharay33455/metadata/refs/heads/master/image.png",
   "decimals": 6,
-  "external_url": "https://example.com",
   "properties": {
     "files": [
       {
